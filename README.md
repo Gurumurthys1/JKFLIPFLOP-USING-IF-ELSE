@@ -83,6 +83,10 @@ end
 endmodule
 ```
 
+**RTL LOGIC FOR FLIPFLOP**
+![image](https://github.com/Gurumurthys1/JKFLIPFLOP-USING-IF-ELSE/assets/163425568/97e3c9f1-3986-49dc-9af1-7b75f6776bea)
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![result](https://github.com/Gurumurthys1/JKFLIPFLOP-USING-IF-ELSE/assets/163425568/ccc67027-d521-4ab6-932e-005f298ac704)
 
